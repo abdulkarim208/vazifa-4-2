@@ -12,7 +12,7 @@ class Talaba(Inson):
 
     def natija(self):
         if self.baho >= 86:
-            print("A'lo")
+            print("Alo")
         elif self.baho >= 71:
             print("Yaxshi")
         elif self.baho >= 56:

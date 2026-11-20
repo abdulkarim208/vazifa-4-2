@@ -26,5 +26,5 @@ kitob = Kitob("O'tkan kunlar", "Abdulla Qodiriy", 300)
 elektron = ElektronKitob("Python", "Ali", 200, "PDF", "5 MB")
 
 kitob.malumot()
-print()
+print("====================")
 elektron.malumot()
